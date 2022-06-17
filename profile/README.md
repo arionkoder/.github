@@ -2,6 +2,8 @@
 
 Help organizations to achieve their maximum expression through digital transformation by creating impactful and scalable solutions and digital products, leveraging innovation and state-of-the-art technology
 
+# Technologies
+
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
