@@ -14,6 +14,20 @@ We create fancy mobile applications for Apple iOS and Android devices, using Nat
 We build cross-platform desktop applications for Windows, Mac, and Linux using Web technologies and application wrappers like Electron
 </td></tr></table>
 
+<table><tr><td valign="top" width="33%">
+
+### eCommerce
+We provide technologies for selling goods or services over the Internet and the transfer of money and data to execute these transactions. We work with custom-made solutions or projects like OpenCart, Magento and WooCommerce
+</td><td valign="top" width="34%">
+
+### CMS Development
+We provide Web-based content management systems to manage the creation and modification of digital content. We work with custom-made solutions or projects like WordPress or Drupal
+</td><td valign="top" width="33%">
+
+### New technologies
+Virtual Reality/Augmented Reality, Drones, 3D printing, NFT, DAO, Web3, Metaverse, IA, Low Code / No Code, IA Coding Assistants
+</td></tr></table>
+
 
 
 # 🍕 Arion's Top contributors🍕
