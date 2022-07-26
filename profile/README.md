@@ -1,6 +1,10 @@
 # Our mission
 
-Help organizations to achieve their maximum expression through digital transformation by creating impactful and scalable solutions and digital products, leveraging innovation and state-of-the-art technology
+Help organizations to achieve their maximum expression through digital transformation by creating impactful and scalable solutions and digital products, leveraging innovation and state-of-the-art technology.
+
+# Our vision
+
+To become a worldwide referenced engineering team, which delivers top-notch innovative solutions and digital products to the most impactful organizations in the world.
 
 # Technologies
 
